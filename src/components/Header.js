@@ -11,7 +11,7 @@ export default function Header() {
           alt="Defenceless Souls Logo"
           className="w-48 h-auto mx-auto md:mx-0 rounded-full border-2 border-ds-light-green"
         />
-        <h1 className="font-bold text-4xl drop-shadow-lg text-ds-dark-green">
+        <h1 className="font-bold text-2xl md:text-4xl drop-shadow-lg text-ds-dark-green">
           Defenceless Souls Dog Sanctuary
         </h1>
         <button

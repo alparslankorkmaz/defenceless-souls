@@ -7,7 +7,7 @@ export default function ContactUs() {
     return (
       <>
         <div>
-          <h3 className="uppercase text-7xl font-bold text-center mt-11 tracking-wide">
+          <h3 className="uppercase text-5xl md:text-7xl font-bold text-center mt-11 tracking-wide">
             <span className="bg-hero-pattern bg-cover bg-clip-text text-transparent inline-block">
               {" "}
               volunteer{" "}
@@ -34,7 +34,7 @@ export default function ContactUs() {
   return (
     <>
       <div id="contact-us">
-        <h3 className="uppercase text-7xl font-bold text-center mt-11 tracking-wide">
+        <h3 className="uppercase text-5xl md:text-7xl font-bold text-center mt-11 tracking-wide">
           <span className="bg-hero-pattern bg-cover bg-clip-text text-transparent inline-block">
             {" "}
             volunteer{" "}
