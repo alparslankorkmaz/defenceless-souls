@@ -258,9 +258,10 @@ export default function ContactUs() {
                 We would like to highlight that you will be fully responsible
                 for any accidents or medical emergencies that could occur during
                 your time volunteering with Defenceless Souls Dog Rescue. So we
-                ask that you to confirm you are happy with this. <br /> I hereby
-                agree to taking full responsibility of all and any accidents or
-                medical emergencies that occur at Defenceless Souls Dog Rescue.
+                need you to confirm you are happy with this. <br /> <br /> I
+                hereby agree to taking full responsibility of all and any
+                accidents or medical emergencies that occur at Defenceless Souls
+                Dog Rescue.
               </p>
             </form>
           </div>
