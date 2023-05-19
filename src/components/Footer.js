@@ -3,15 +3,10 @@ export default function Footer() {
     <>
       <div className="">
         <div className="relative mt-20 flex items-center justify-center">
-          <div className="z-0 w-1/2">
+          <div className="z-0 h-96 bg-cover md:h-72 w-full bg-hero-pattern rounded-3xl">
             {" "}
-            <img
-              src="/images/hero-pattern.webp"
-              alt="pattern"
-              className="rounded-xl "
-            />
           </div>
-          <div className="footer w-3/4 bg-gradient-to-br from-ds-dark-green to-transparent rounded-3xl p-6 grid md:grid-cols-2 md:gap-20 items-center absolute z-10 top-10 md:bottom-0 md:top-10">
+          <div className="footer w-3/4 bg-gradient-to-bl from-ds-light-green to-transparent rounded-3xl p-6 grid md:grid-cols-2 md:gap-20 items-center absolute z-10 top-10 md:bottom-0 md:top-10">
             <div className="  ">
               <img
                 src="/images/ds-logo.jpg"

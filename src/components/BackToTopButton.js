@@ -26,7 +26,7 @@ export default function BackToTopButton() {
       {BackToTopButton && (
         <button
           onClick={scrollUp}
-          className="text-xl text-white font-bold tracking-wide bg-hero-pattern bg-cover rounded-full fixed bottom-10 right-10 h-16 w-16 z-10  border-4 border-zinc-300 border-t-emerald-500"
+          className="text-xl text-ds-light-green font-bold tracking-wide bg-hero-pattern bg-cover rounded-full fixed bottom-10 right-10 h-16 w-16 z-10  border-4 border-ds-light-green"
         >
           ⬆
         </button>

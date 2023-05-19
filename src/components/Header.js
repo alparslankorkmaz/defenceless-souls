@@ -9,14 +9,14 @@ export default function Header() {
         <img
           src="/images/ds-logo.jpg"
           alt="Defenceless Souls Logo"
-          className="w-48 h-auto mx-auto md:mx-0 rounded-full border-4 border-ds-light-green"
+          className="w-48 h-auto mx-auto md:mx-0 rounded-full border-2 border-ds-light-green"
         />
         <h1 className="font-bold text-4xl drop-shadow-lg text-ds-dark-green">
-          Defenceless Souls Dog Rescue
+          Defenceless Souls Dog Sanctuary
         </h1>
         <button
           onClick={scroll}
-          className="hidden p-6 text-3xl tracking-wider rounded-3xl bg-hero-pattern bg-cover shadow-xl border-4 uppercase text-white border-ds-light-green  font-semibold md:flex flex-col items-center justify-center hover:scale-105"
+          className="hidden p-3 text-2xl tracking-wider rounded-3xl bg-hero-pattern bg-cover shadow-xl border-4 uppercase text-white border-ds-light-green  font-semibold md:flex flex-col items-center justify-center hover:scale-105"
         >
           volunteer form
         </button>

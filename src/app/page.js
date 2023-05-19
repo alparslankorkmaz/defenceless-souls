@@ -3,7 +3,7 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 // import Content from "@/components/Content";
 // import CallToAction from "@/components/CallToAction";
-// import ContactUs from "@/components/ContactUs";
+import ContactUs from "@/components/ContactUs";
 import Footer from "@/components/Footer";
 import BackToTopButton from "@/components/BackToTopButton";
 
@@ -14,7 +14,7 @@ export default function Home() {
       <Hero />
       {/* <Content /> */}
       {/* <CallToAction /> */}
-      {/* <ContactUs /> */}
+      <ContactUs />
       <Footer />
       <BackToTopButton />
     </main>
