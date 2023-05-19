@@ -22,8 +22,8 @@ export default function ContactUs() {
             />
           </div>
 
-          <div className="grid grid-cols-2">
-            <p className="text-5xl tracking-wide text-center font-bold uppercase bg-play-green p-5 rounded-xl text-white my-20 leading-loose">
+          <div className="">
+            <p className="text-3xl md:text-5xl tracking-wide text-center font-bold uppercase bg-green-300 p-5 rounded-xl text-white my-20 leading-loose">
               application sent succesfully! ✅ 🐶
             </p>
           </div>
